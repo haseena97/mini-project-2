@@ -1,0 +1,10 @@
+Prepare support vector machines model for classifying the area under fire for foresfires data
+
+Answer: 
+
+Since output is binary classification, best kernel to use is linear kernel
+Test accuracy: 
+0.9903846153846154
+
+When using RBF kernel, accuracy score is low:
+0.75

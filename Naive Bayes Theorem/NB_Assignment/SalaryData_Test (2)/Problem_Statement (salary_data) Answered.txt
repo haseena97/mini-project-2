@@ -1,0 +1,23 @@
+Problem Statement:
+Q. Prepare a classification model using Naive Bayes for salary data 
+
+Answer: 
+Income = target variable (y)
+Model used: Gaussian Naive Bayes
+
+Test data prediction:
+Predictions      0     1
+Actual                  
+0            10759   601
+1             2491  1209
+Test accuracy score:
+0.7946879150066402
+
+Train data prediction:
+Predictions      0     1
+Actual                  
+0            21505  1148
+1             5025  2483
+
+Train accuracy score:
+0.7953317197705646

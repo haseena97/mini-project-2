@@ -1,0 +1,19 @@
+Q. Build a Neural Network model for 50_startups data to predict profit 
+Answer:
+Accuracy score :test data
+input dense = 7
+hidden layer dense = 12
+output dense = 1
+epoch = 3
+array([[1.        , 0.68383189],
+       [0.68383189, 1.        ]])
+
+Q. Predict the Burned Area due to Forest Fires using Neural Network model
+Answer:
+Accuracy score :test data
+input dense = 50
+hidden layer dense = 250
+output dense = 1
+epoch = 20
+array([[1.        , 0.59340119],
+       [0.59340119, 1.        ]])

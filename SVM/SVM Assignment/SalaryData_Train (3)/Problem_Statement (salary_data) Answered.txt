@@ -1,0 +1,13 @@
+Q. Prepare a classification model using SVM for salary data.
+
+Answered:
+Linear kernel is used because output is binary classification
+
+Observation:
+SVC is taking too much time to train data ( more than 15 minutes). 
+
+Feature scaling is essential for machine learning algorithms that calculate distances between data, such as SVM.
+After feature scaling have been applied to train and test data, training is much faster (3 minutes)
+
+Test accuracy:
+0.8092297476759628
